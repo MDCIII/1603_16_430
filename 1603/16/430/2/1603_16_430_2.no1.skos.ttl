@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:430()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:101" ;
     skos:prefLabel "Dowein"@eng-Latn ;
-    wdata:q7200235 "LR0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -175,7 +173,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1001" ;
     skos:prefLabel "Gwelekpoken"@eng-Latn ;
-    wdata:q7200235 "LR1001" ;
 .
 
 <urn:mdciii:1603:16:430:2:1002>
@@ -184,7 +181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1002" ;
     skos:prefLabel "Harper"@eng-Latn ;
-    wdata:q7200235 "LR1002" ;
 .
 
 <urn:mdciii:1603:16:430:2:1003>
@@ -193,7 +189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1003" ;
     skos:prefLabel "Karluway #1"@eng-Latn ;
-    wdata:q7200235 "LR1003" ;
 .
 
 <urn:mdciii:1603:16:430:2:1004>
@@ -202,7 +197,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1004" ;
     skos:prefLabel "Karluway #2"@eng-Latn ;
-    wdata:q7200235 "LR1004" ;
 .
 
 <urn:mdciii:1603:16:430:2:1005>
@@ -211,7 +205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1005" ;
     skos:prefLabel "Nyorken"@eng-Latn ;
-    wdata:q7200235 "LR1005" ;
 .
 
 <urn:mdciii:1603:16:430:2:1006>
@@ -220,7 +213,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1006" ;
     skos:prefLabel "Pleebo/Sodoken"@eng-Latn ;
-    wdata:q7200235 "LR1006" ;
 .
 
 <urn:mdciii:1603:16:430:2:1007>
@@ -229,7 +221,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1007" ;
     skos:prefLabel "Whojah"@eng-Latn ;
-    wdata:q7200235 "LR1007" ;
 .
 
 <urn:mdciii:1603:16:430:2:102>
@@ -238,7 +229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:102" ;
     skos:prefLabel "Klay"@eng-Latn ;
-    wdata:q7200235 "LR0102" ;
 .
 
 <urn:mdciii:1603:16:430:2:103>
@@ -247,7 +237,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:103" ;
     skos:prefLabel "Senjeh"@eng-Latn ;
-    wdata:q7200235 "LR0103" ;
 .
 
 <urn:mdciii:1603:16:430:2:104>
@@ -256,7 +245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:104" ;
     skos:prefLabel "Suehn Mecca"@eng-Latn ;
-    wdata:q7200235 "LR0104" ;
 .
 
 <urn:mdciii:1603:16:430:2:1101>
@@ -265,7 +253,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1101" ;
     skos:prefLabel "Careysburg"@eng-Latn ;
-    wdata:q7200235 "LR1101" ;
 .
 
 <urn:mdciii:1603:16:430:2:1102>
@@ -274,7 +261,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1102" ;
     skos:prefLabel "Commonwealth 1"@eng-Latn ;
-    wdata:q7200235 "LR1102" ;
 .
 
 <urn:mdciii:1603:16:430:2:1103>
@@ -283,7 +269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1103" ;
     skos:prefLabel "Greater Monrovia"@eng-Latn ;
-    wdata:q7200235 "LR1103" ;
 .
 
 <urn:mdciii:1603:16:430:2:1104>
@@ -292,7 +277,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1104" ;
     skos:prefLabel "St. Paul River"@eng-Latn ;
-    wdata:q7200235 "LR1104" ;
 .
 
 <urn:mdciii:1603:16:430:2:1105>
@@ -301,7 +285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1105" ;
     skos:prefLabel "Todee"@eng-Latn ;
-    wdata:q7200235 "LR1105" ;
 .
 
 <urn:mdciii:1603:16:430:2:1201>
@@ -310,7 +293,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1201" ;
     skos:prefLabel "Boe & Quilla"@eng-Latn ;
-    wdata:q7200235 "LR1201" ;
 .
 
 <urn:mdciii:1603:16:430:2:1202>
@@ -319,7 +301,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1202" ;
     skos:prefLabel "Buu-Yao"@eng-Latn ;
-    wdata:q7200235 "LR1202" ;
 .
 
 <urn:mdciii:1603:16:430:2:1203>
@@ -328,7 +309,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1203" ;
     skos:prefLabel "Doe"@eng-Latn ;
-    wdata:q7200235 "LR1203" ;
 .
 
 <urn:mdciii:1603:16:430:2:1204>
@@ -337,7 +317,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1204" ;
     skos:prefLabel "Garr-Bain"@eng-Latn ;
-    wdata:q7200235 "LR1204" ;
 .
 
 <urn:mdciii:1603:16:430:2:1205>
@@ -346,7 +325,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1205" ;
     skos:prefLabel "Gbehlay-Geh"@eng-Latn ;
-    wdata:q7200235 "LR1205" ;
 .
 
 <urn:mdciii:1603:16:430:2:1206>
@@ -355,7 +333,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1206" ;
     skos:prefLabel "Gbi & Doru"@eng-Latn ;
-    wdata:q7200235 "LR1206" ;
 .
 
 <urn:mdciii:1603:16:430:2:1207>
@@ -364,7 +341,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1207" ;
     skos:prefLabel "Gbor"@eng-Latn ;
-    wdata:q7200235 "LR1207" ;
 .
 
 <urn:mdciii:1603:16:430:2:1208>
@@ -373,7 +349,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1208" ;
     skos:prefLabel "Kparblee"@eng-Latn ;
-    wdata:q7200235 "LR1208" ;
 .
 
 <urn:mdciii:1603:16:430:2:1209>
@@ -382,7 +357,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1209" ;
     skos:prefLabel "Leewehpea-Mahn"@eng-Latn ;
-    wdata:q7200235 "LR1209" ;
 .
 
 <urn:mdciii:1603:16:430:2:1210>
@@ -391,7 +365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1210" ;
     skos:prefLabel "Meinpea-Mahn"@eng-Latn ;
-    wdata:q7200235 "LR1210" ;
 .
 
 <urn:mdciii:1603:16:430:2:1211>
@@ -400,7 +373,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1211" ;
     skos:prefLabel "Sanniquellie Mahn"@eng-Latn ;
-    wdata:q7200235 "LR1211" ;
 .
 
 <urn:mdciii:1603:16:430:2:1212>
@@ -409,7 +381,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1212" ;
     skos:prefLabel "Twan River"@eng-Latn ;
-    wdata:q7200235 "LR1212" ;
 .
 
 <urn:mdciii:1603:16:430:2:1213>
@@ -418,7 +389,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1213" ;
     skos:prefLabel "Wee-Gbehyi-Mahn"@eng-Latn ;
-    wdata:q7200235 "LR1213" ;
 .
 
 <urn:mdciii:1603:16:430:2:1214>
@@ -427,7 +397,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1214" ;
     skos:prefLabel "Yarmein"@eng-Latn ;
-    wdata:q7200235 "LR1214" ;
 .
 
 <urn:mdciii:1603:16:430:2:1215>
@@ -436,7 +405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1215" ;
     skos:prefLabel "Yarpea Mahn"@eng-Latn ;
-    wdata:q7200235 "LR1215" ;
 .
 
 <urn:mdciii:1603:16:430:2:1216>
@@ -445,7 +413,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1216" ;
     skos:prefLabel "Yarwein Mehnsonnoh"@eng-Latn ;
-    wdata:q7200235 "LR1216" ;
 .
 
 <urn:mdciii:1603:16:430:2:1217>
@@ -454,7 +421,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1217" ;
     skos:prefLabel "Zoe-Gbao"@eng-Latn ;
-    wdata:q7200235 "LR1217" ;
 .
 
 <urn:mdciii:1603:16:430:2:1301>
@@ -463,7 +429,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1301" ;
     skos:prefLabel "Chedepo"@eng-Latn ;
-    wdata:q7200235 "LR1301" ;
 .
 
 <urn:mdciii:1603:16:430:2:1302>
@@ -472,7 +437,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1302" ;
     skos:prefLabel "Gbeapo"@eng-Latn ;
-    wdata:q7200235 "LR1302" ;
 .
 
 <urn:mdciii:1603:16:430:2:1303>
@@ -481,7 +445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1303" ;
     skos:prefLabel "Glaro"@eng-Latn ;
-    wdata:q7200235 "LR1303" ;
 .
 
 <urn:mdciii:1603:16:430:2:1304>
@@ -490,7 +453,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1304" ;
     skos:prefLabel "Karforh"@eng-Latn ;
-    wdata:q7200235 "LR1304" ;
 .
 
 <urn:mdciii:1603:16:430:2:1305>
@@ -499,7 +461,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1305" ;
     skos:prefLabel "Nanee"@eng-Latn ;
-    wdata:q7200235 "LR1305" ;
 .
 
 <urn:mdciii:1603:16:430:2:1306>
@@ -508,7 +469,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1306" ;
     skos:prefLabel "Nyenawliken"@eng-Latn ;
-    wdata:q7200235 "LR1306" ;
 .
 
 <urn:mdciii:1603:16:430:2:1307>
@@ -517,7 +477,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1307" ;
     skos:prefLabel "Nyenebo"@eng-Latn ;
-    wdata:q7200235 "LR1307" ;
 .
 
 <urn:mdciii:1603:16:430:2:1308>
@@ -526,7 +485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1308" ;
     skos:prefLabel "Potupo"@eng-Latn ;
-    wdata:q7200235 "LR1308" ;
 .
 
 <urn:mdciii:1603:16:430:2:1309>
@@ -535,7 +493,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1309" ;
     skos:prefLabel "Sarbo"@eng-Latn ;
-    wdata:q7200235 "LR1309" ;
 .
 
 <urn:mdciii:1603:16:430:2:1310>
@@ -544,7 +501,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1310" ;
     skos:prefLabel "Tuobo"@eng-Latn ;
-    wdata:q7200235 "LR1310" ;
 .
 
 <urn:mdciii:1603:16:430:2:1401>
@@ -553,7 +509,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1401" ;
     skos:prefLabel "Beawor"@eng-Latn ;
-    wdata:q7200235 "LR1401" ;
 .
 
 <urn:mdciii:1603:16:430:2:1402>
@@ -562,7 +517,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1402" ;
     skos:prefLabel "Central Rivercess"@eng-Latn ;
-    wdata:q7200235 "LR1402" ;
 .
 
 <urn:mdciii:1603:16:430:2:1403>
@@ -571,7 +525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1403" ;
     skos:prefLabel "Doedain"@eng-Latn ;
-    wdata:q7200235 "LR1403" ;
 .
 
 <urn:mdciii:1603:16:430:2:1404>
@@ -580,7 +533,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1404" ;
     skos:prefLabel "Fen River"@eng-Latn ;
-    wdata:q7200235 "LR1404" ;
 .
 
 <urn:mdciii:1603:16:430:2:1405>
@@ -589,7 +541,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1405" ;
     skos:prefLabel "Jo River"@eng-Latn ;
-    wdata:q7200235 "LR1405" ;
 .
 
 <urn:mdciii:1603:16:430:2:1406>
@@ -598,7 +549,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1406" ;
     skos:prefLabel "Norwein"@eng-Latn ;
-    wdata:q7200235 "LR1406" ;
 .
 
 <urn:mdciii:1603:16:430:2:1407>
@@ -607,7 +557,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1407" ;
     skos:prefLabel "Sam Gbalor"@eng-Latn ;
-    wdata:q7200235 "LR1407" ;
 .
 
 <urn:mdciii:1603:16:430:2:1408>
@@ -616,7 +565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1408" ;
     skos:prefLabel "Zarflahn"@eng-Latn ;
-    wdata:q7200235 "LR1408" ;
 .
 
 <urn:mdciii:1603:16:430:2:1501>
@@ -625,7 +573,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1501" ;
     skos:prefLabel "Bodae"@eng-Latn ;
-    wdata:q7200235 "LR1501" ;
 .
 
 <urn:mdciii:1603:16:430:2:1502>
@@ -634,7 +581,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1502" ;
     skos:prefLabel "Bokon"@eng-Latn ;
-    wdata:q7200235 "LR1502" ;
 .
 
 <urn:mdciii:1603:16:430:2:1503>
@@ -643,7 +589,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1503" ;
     skos:prefLabel "Butaw"@eng-Latn ;
-    wdata:q7200235 "LR1503" ;
 .
 
 <urn:mdciii:1603:16:430:2:1504>
@@ -652,7 +597,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1504" ;
     skos:prefLabel "Dugbe River"@eng-Latn ;
-    wdata:q7200235 "LR1504" ;
 .
 
 <urn:mdciii:1603:16:430:2:1505>
@@ -661,7 +605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1505" ;
     skos:prefLabel "Greenville"@eng-Latn ;
-    wdata:q7200235 "LR1505" ;
 .
 
 <urn:mdciii:1603:16:430:2:1506>
@@ -670,7 +613,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1506" ;
     skos:prefLabel "Jaedae"@eng-Latn ;
-    wdata:q7200235 "LR1506" ;
 .
 
 <urn:mdciii:1603:16:430:2:1507>
@@ -679,7 +621,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1507" ;
     skos:prefLabel "Jeadepo"@eng-Latn ;
-    wdata:q7200235 "LR1507" ;
 .
 
 <urn:mdciii:1603:16:430:2:1508>
@@ -688,7 +629,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1508" ;
     skos:prefLabel "Juarzon"@eng-Latn ;
-    wdata:q7200235 "LR1508" ;
 .
 
 <urn:mdciii:1603:16:430:2:1509>
@@ -697,7 +637,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1509" ;
     skos:prefLabel "Kpayan"@eng-Latn ;
-    wdata:q7200235 "LR1509" ;
 .
 
 <urn:mdciii:1603:16:430:2:1510>
@@ -706,7 +645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1510" ;
     skos:prefLabel "Kulu Shaw Boe"@eng-Latn ;
-    wdata:q7200235 "LR1510" ;
 .
 
 <urn:mdciii:1603:16:430:2:1511>
@@ -715,7 +653,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1511" ;
     skos:prefLabel "Plahn Nyarn"@eng-Latn ;
-    wdata:q7200235 "LR1511" ;
 .
 
 <urn:mdciii:1603:16:430:2:1512>
@@ -724,7 +661,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1512" ;
     skos:prefLabel "Pynes Town"@eng-Latn ;
-    wdata:q7200235 "LR1512" ;
 .
 
 <urn:mdciii:1603:16:430:2:1513>
@@ -733,7 +669,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1513" ;
     skos:prefLabel "Sanquin Dist #1"@eng-Latn ;
-    wdata:q7200235 "LR1513" ;
 .
 
 <urn:mdciii:1603:16:430:2:1514>
@@ -742,7 +677,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1514" ;
     skos:prefLabel "Sanquin Dist #3"@eng-Latn ;
-    wdata:q7200235 "LR1514" ;
 .
 
 <urn:mdciii:1603:16:430:2:1515>
@@ -751,7 +685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1515" ;
     skos:prefLabel "Sanquin Dist #2"@eng-Latn ;
-    wdata:q7200235 "LR1515" ;
 .
 
 <urn:mdciii:1603:16:430:2:1516>
@@ -760,7 +693,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1516" ;
     skos:prefLabel "Seekon"@eng-Latn ;
-    wdata:q7200235 "LR1516" ;
 .
 
 <urn:mdciii:1603:16:430:2:1517>
@@ -769,7 +701,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:1517" ;
     skos:prefLabel "Wedjah"@eng-Latn ;
-    wdata:q7200235 "LR1517" ;
 .
 
 <urn:mdciii:1603:16:430:2:201>
@@ -778,7 +709,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:201" ;
     skos:prefLabel "Boinsen"@eng-Latn ;
-    wdata:q7200235 "LR0201" ;
 .
 
 <urn:mdciii:1603:16:430:2:202>
@@ -787,7 +717,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:202" ;
     skos:prefLabel "Fuamah"@eng-Latn ;
-    wdata:q7200235 "LR0202" ;
 .
 
 <urn:mdciii:1603:16:430:2:203>
@@ -796,7 +725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:203" ;
     skos:prefLabel "Jorquelleh"@eng-Latn ;
-    wdata:q7200235 "LR0203" ;
 .
 
 <urn:mdciii:1603:16:430:2:204>
@@ -805,7 +733,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:204" ;
     skos:prefLabel "Kokoyah"@eng-Latn ;
-    wdata:q7200235 "LR0204" ;
 .
 
 <urn:mdciii:1603:16:430:2:205>
@@ -814,7 +741,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:205" ;
     skos:prefLabel "Kpaai"@eng-Latn ;
-    wdata:q7200235 "LR0205" ;
 .
 
 <urn:mdciii:1603:16:430:2:206>
@@ -823,7 +749,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:206" ;
     skos:prefLabel "Panta"@eng-Latn ;
-    wdata:q7200235 "LR0206" ;
 .
 
 <urn:mdciii:1603:16:430:2:207>
@@ -832,7 +757,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:207" ;
     skos:prefLabel "Salala"@eng-Latn ;
-    wdata:q7200235 "LR0207" ;
 .
 
 <urn:mdciii:1603:16:430:2:208>
@@ -841,7 +765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:208" ;
     skos:prefLabel "Sanoyeah"@eng-Latn ;
-    wdata:q7200235 "LR0208" ;
 .
 
 <urn:mdciii:1603:16:430:2:209>
@@ -850,7 +773,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:209" ;
     skos:prefLabel "Suakoko"@eng-Latn ;
-    wdata:q7200235 "LR0209" ;
 .
 
 <urn:mdciii:1603:16:430:2:210>
@@ -859,7 +781,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:210" ;
     skos:prefLabel "Tukpahblee"@eng-Latn ;
-    wdata:q7200235 "LR0210" ;
 .
 
 <urn:mdciii:1603:16:430:2:211>
@@ -868,7 +789,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:211" ;
     skos:prefLabel "Yeallequelleh"@eng-Latn ;
-    wdata:q7200235 "LR0211" ;
 .
 
 <urn:mdciii:1603:16:430:2:212>
@@ -877,7 +797,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:212" ;
     skos:prefLabel "Zota"@eng-Latn ;
-    wdata:q7200235 "LR0212" ;
 .
 
 <urn:mdciii:1603:16:430:2:301>
@@ -886,7 +805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:301" ;
     skos:prefLabel "Belleh"@eng-Latn ;
-    wdata:q7200235 "LR0301" ;
 .
 
 <urn:mdciii:1603:16:430:2:302>
@@ -895,7 +813,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:302" ;
     skos:prefLabel "Bokomu"@eng-Latn ;
-    wdata:q7200235 "LR0302" ;
 .
 
 <urn:mdciii:1603:16:430:2:303>
@@ -904,7 +821,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:303" ;
     skos:prefLabel "Bopolu"@eng-Latn ;
-    wdata:q7200235 "LR0303" ;
 .
 
 <urn:mdciii:1603:16:430:2:304>
@@ -913,7 +829,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:304" ;
     skos:prefLabel "Gbarma"@eng-Latn ;
-    wdata:q7200235 "LR0304" ;
 .
 
 <urn:mdciii:1603:16:430:2:305>
@@ -922,7 +837,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:305" ;
     skos:prefLabel "Gounwolaila"@eng-Latn ;
-    wdata:q7200235 "LR0305" ;
 .
 
 <urn:mdciii:1603:16:430:2:306>
@@ -931,7 +845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:306" ;
     skos:prefLabel "Kongba"@eng-Latn ;
-    wdata:q7200235 "LR0306" ;
 .
 
 <urn:mdciii:1603:16:430:2:401>
@@ -940,7 +853,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:401" ;
     skos:prefLabel "Commonwealth 2"@eng-Latn ;
-    wdata:q7200235 "LR0401" ;
 .
 
 <urn:mdciii:1603:16:430:2:402>
@@ -949,7 +861,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:402" ;
     skos:prefLabel "District #1"@eng-Latn ;
-    wdata:q7200235 "LR0402" ;
 .
 
 <urn:mdciii:1603:16:430:2:403>
@@ -958,7 +869,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:403" ;
     skos:prefLabel "District #2"@eng-Latn ;
-    wdata:q7200235 "LR0403" ;
 .
 
 <urn:mdciii:1603:16:430:2:404>
@@ -967,7 +877,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:404" ;
     skos:prefLabel "District #3"@eng-Latn ;
-    wdata:q7200235 "LR0404" ;
 .
 
 <urn:mdciii:1603:16:430:2:405>
@@ -976,7 +885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:405" ;
     skos:prefLabel "District #4"@eng-Latn ;
-    wdata:q7200235 "LR0405" ;
 .
 
 <urn:mdciii:1603:16:430:2:406>
@@ -985,7 +893,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:406" ;
     skos:prefLabel "Neekreen"@eng-Latn ;
-    wdata:q7200235 "LR0406" ;
 .
 
 <urn:mdciii:1603:16:430:2:407>
@@ -994,7 +901,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:407" ;
     skos:prefLabel "Owensgrove"@eng-Latn ;
-    wdata:q7200235 "LR0407" ;
 .
 
 <urn:mdciii:1603:16:430:2:408>
@@ -1003,7 +909,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:408" ;
     skos:prefLabel "St. John River City"@eng-Latn ;
-    wdata:q7200235 "LR0408" ;
 .
 
 <urn:mdciii:1603:16:430:2:501>
@@ -1012,7 +917,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:501" ;
     skos:prefLabel "Commonwealth"@eng-Latn ;
-    wdata:q7200235 "LR0501" ;
 .
 
 <urn:mdciii:1603:16:430:2:502>
@@ -1021,7 +925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:502" ;
     skos:prefLabel "Garwula"@eng-Latn ;
-    wdata:q7200235 "LR0502" ;
 .
 
 <urn:mdciii:1603:16:430:2:503>
@@ -1030,7 +933,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:503" ;
     skos:prefLabel "Golakonneh"@eng-Latn ;
-    wdata:q7200235 "LR0503" ;
 .
 
 <urn:mdciii:1603:16:430:2:504>
@@ -1039,7 +941,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:504" ;
     skos:prefLabel "Porkpa"@eng-Latn ;
-    wdata:q7200235 "LR0504" ;
 .
 
 <urn:mdciii:1603:16:430:2:505>
@@ -1048,7 +949,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:505" ;
     skos:prefLabel "Tewor"@eng-Latn ;
-    wdata:q7200235 "LR0505" ;
 .
 
 <urn:mdciii:1603:16:430:2:601>
@@ -1057,7 +957,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:601" ;
     skos:prefLabel "B'hai"@eng-Latn ;
-    wdata:q7200235 "LR0601" ;
 .
 
 <urn:mdciii:1603:16:430:2:602>
@@ -1066,7 +965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:602" ;
     skos:prefLabel "Cavala"@eng-Latn ;
-    wdata:q7200235 "LR0602" ;
 .
 
 <urn:mdciii:1603:16:430:2:603>
@@ -1075,7 +973,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:603" ;
     skos:prefLabel "Gbao"@eng-Latn ;
-    wdata:q7200235 "LR0603" ;
 .
 
 <urn:mdciii:1603:16:430:2:604>
@@ -1084,7 +981,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:604" ;
     skos:prefLabel "Gboe-Ploe"@eng-Latn ;
-    wdata:q7200235 "LR0604" ;
 .
 
 <urn:mdciii:1603:16:430:2:605>
@@ -1093,7 +989,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:605" ;
     skos:prefLabel "Glio-Twarbo"@eng-Latn ;
-    wdata:q7200235 "LR0605" ;
 .
 
 <urn:mdciii:1603:16:430:2:606>
@@ -1102,7 +997,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:606" ;
     skos:prefLabel "Konobo"@eng-Latn ;
-    wdata:q7200235 "LR0606" ;
 .
 
 <urn:mdciii:1603:16:430:2:607>
@@ -1111,7 +1005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:607" ;
     skos:prefLabel "Putu"@eng-Latn ;
-    wdata:q7200235 "LR0607" ;
 .
 
 <urn:mdciii:1603:16:430:2:608>
@@ -1120,7 +1013,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:608" ;
     skos:prefLabel "Tchien"@eng-Latn ;
-    wdata:q7200235 "LR0608" ;
 .
 
 <urn:mdciii:1603:16:430:2:701>
@@ -1129,7 +1021,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:701" ;
     skos:prefLabel "Barclayville"@eng-Latn ;
-    wdata:q7200235 "LR0701" ;
 .
 
 <urn:mdciii:1603:16:430:2:702>
@@ -1138,7 +1029,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:702" ;
     skos:prefLabel "Bleebo"@eng-Latn ;
-    wdata:q7200235 "LR0702" ;
 .
 
 <urn:mdciii:1603:16:430:2:703>
@@ -1147,7 +1037,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:703" ;
     skos:prefLabel "Bolloh"@eng-Latn ;
-    wdata:q7200235 "LR0703" ;
 .
 
 <urn:mdciii:1603:16:430:2:704>
@@ -1156,7 +1045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:704" ;
     skos:prefLabel "Buah"@eng-Latn ;
-    wdata:q7200235 "LR0704" ;
 .
 
 <urn:mdciii:1603:16:430:2:705>
@@ -1165,7 +1053,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:705" ;
     skos:prefLabel "Dorbor"@eng-Latn ;
-    wdata:q7200235 "LR0705" ;
 .
 
 <urn:mdciii:1603:16:430:2:706>
@@ -1174,7 +1061,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:706" ;
     skos:prefLabel "Dweh"@eng-Latn ;
-    wdata:q7200235 "LR0706" ;
 .
 
 <urn:mdciii:1603:16:430:2:707>
@@ -1183,7 +1069,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:707" ;
     skos:prefLabel "Felo-Jekwi"@eng-Latn ;
-    wdata:q7200235 "LR0707" ;
 .
 
 <urn:mdciii:1603:16:430:2:708>
@@ -1192,7 +1077,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:708" ;
     skos:prefLabel "Fenetoe"@eng-Latn ;
-    wdata:q7200235 "LR0708" ;
 .
 
 <urn:mdciii:1603:16:430:2:709>
@@ -1201,7 +1085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:709" ;
     skos:prefLabel "Forpoh"@eng-Latn ;
-    wdata:q7200235 "LR0709" ;
 .
 
 <urn:mdciii:1603:16:430:2:710>
@@ -1210,7 +1093,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:710" ;
     skos:prefLabel "Garraway"@eng-Latn ;
-    wdata:q7200235 "LR0710" ;
 .
 
 <urn:mdciii:1603:16:430:2:711>
@@ -1219,7 +1101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:711" ;
     skos:prefLabel "Gee"@eng-Latn ;
-    wdata:q7200235 "LR0711" ;
 .
 
 <urn:mdciii:1603:16:430:2:712>
@@ -1228,7 +1109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:712" ;
     skos:prefLabel "Grand Cess Wedabo"@eng-Latn ;
-    wdata:q7200235 "LR0712" ;
 .
 
 <urn:mdciii:1603:16:430:2:713>
@@ -1237,7 +1117,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:713" ;
     skos:prefLabel "Kpi"@eng-Latn ;
-    wdata:q7200235 "LR0713" ;
 .
 
 <urn:mdciii:1603:16:430:2:714>
@@ -1246,7 +1125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:714" ;
     skos:prefLabel "Lower Jloh"@eng-Latn ;
-    wdata:q7200235 "LR0714" ;
 .
 
 <urn:mdciii:1603:16:430:2:715>
@@ -1255,7 +1133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:715" ;
     skos:prefLabel "Nrokwia-Wesldow"@eng-Latn ;
-    wdata:q7200235 "LR0715" ;
 .
 
 <urn:mdciii:1603:16:430:2:716>
@@ -1264,7 +1141,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:716" ;
     skos:prefLabel "Trenbo"@eng-Latn ;
-    wdata:q7200235 "LR0716" ;
 .
 
 <urn:mdciii:1603:16:430:2:717>
@@ -1273,7 +1149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:717" ;
     skos:prefLabel "Upper Jloh"@eng-Latn ;
-    wdata:q7200235 "LR0717" ;
 .
 
 <urn:mdciii:1603:16:430:2:718>
@@ -1282,7 +1157,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:718" ;
     skos:prefLabel "Wlogba"@eng-Latn ;
-    wdata:q7200235 "LR0718" ;
 .
 
 <urn:mdciii:1603:16:430:2:801>
@@ -1291,7 +1165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:801" ;
     skos:prefLabel "Foya"@eng-Latn ;
-    wdata:q7200235 "LR0801" ;
 .
 
 <urn:mdciii:1603:16:430:2:802>
@@ -1300,7 +1173,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:802" ;
     skos:prefLabel "Kolahun"@eng-Latn ;
-    wdata:q7200235 "LR0802" ;
 .
 
 <urn:mdciii:1603:16:430:2:803>
@@ -1309,7 +1181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:803" ;
     skos:prefLabel "Quardu Boundi"@eng-Latn ;
-    wdata:q7200235 "LR0803" ;
 .
 
 <urn:mdciii:1603:16:430:2:804>
@@ -1318,7 +1189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:804" ;
     skos:prefLabel "Salayea"@eng-Latn ;
-    wdata:q7200235 "LR0804" ;
 .
 
 <urn:mdciii:1603:16:430:2:805>
@@ -1327,7 +1197,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:805" ;
     skos:prefLabel "Vahun"@eng-Latn ;
-    wdata:q7200235 "LR0805" ;
 .
 
 <urn:mdciii:1603:16:430:2:806>
@@ -1336,7 +1205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:806" ;
     skos:prefLabel "Voinjama"@eng-Latn ;
-    wdata:q7200235 "LR0806" ;
 .
 
 <urn:mdciii:1603:16:430:2:807>
@@ -1345,7 +1213,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:807" ;
     skos:prefLabel "Zorzor"@eng-Latn ;
-    wdata:q7200235 "LR0807" ;
 .
 
 <urn:mdciii:1603:16:430:2:901>
@@ -1354,7 +1221,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:901" ;
     skos:prefLabel "Firestone"@eng-Latn ;
-    wdata:q7200235 "LR0901" ;
 .
 
 <urn:mdciii:1603:16:430:2:902>
@@ -1363,7 +1229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:902" ;
     skos:prefLabel "Gibi"@eng-Latn ;
-    wdata:q7200235 "LR0902" ;
 .
 
 <urn:mdciii:1603:16:430:2:903>
@@ -1372,7 +1237,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:903" ;
     skos:prefLabel "Kakata"@eng-Latn ;
-    wdata:q7200235 "LR0903" ;
 .
 
 <urn:mdciii:1603:16:430:2:904>
@@ -1381,6 +1245,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:430:2:904" ;
     skos:prefLabel "Mambah Kaba"@eng-Latn ;
-    wdata:q7200235 "LR0904" ;
 .
 
